@@ -15,7 +15,8 @@ In my time at Tech, I joined Alpha Sigma Phi in the fall of 2014. At the time, A
 ### Research
 In the winter of 2015, I began undergraduate research with a graduate student Huiying Mao, under the direction of Dr. William H. Woodall. I was truly fortunate to have such an accomplished statistican as Dr. Woodall willing to work with me and guide on my first publication at the age of 20. Our goal was to provide an evaluation of a suggested quality control method. We utilized big data simulation in R to provide such analysis. We found that Wheeler's method for monitoring the rate of rare events ineffective by using these simulations and statistical theory. Our paper, "An Evaluation of Wheeler's Method for Monitoring the Rate of Rare Events", was published in June of 2016. [Our paper can be viewed here](http://onlinelibrary.wiley.com/doi/10.1002/qre.2024/abstract)
 
-### Employment Background
+I also became involved with the Bayesian Visual Analytics research group. Specifically, I assisted graduate student and professors in background research with the [CHITA methods group](https://infovis.cs.vt.edu/content/chita-project) 
+
 
 
 ### Contact me
