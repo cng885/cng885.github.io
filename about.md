@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-My name is Chase Ginther and I am a Data Scientist currently residing anywhere in Tampa, Florida. I am currently employed by Nielsen Holdings, LLC as a Data Scienntist on the Machine Learning and Algorithms Team. In my blog/portfolio, you will find content ranging from tips and tricks related to data science, full projects, and random musings about student life at universities.
+My name is Chase Ginther and I am a Data Scientist currently residing in Tampa, Florida. I am currently employed by Nielsen Holdings, LLC as a Data Scienntist on the Machine Learning and Algorithms Team. In my blog/portfolio, you will find content ranging from tips and tricks related to data science, full projects, and random musings about student life at universities.
 
 ### Education
 I received a Bachelors of Science at Virginia Polytechnic Institute and State University in Statistics and with a double major in  Computational Modeling and Data Analytics. When enrolling at Virginia Tech in 2014, I was pleased to learn about the universities addition of Computational Modeling and Data Analytics(CMDA) into it's curriculum. In 2015, I was one of the first students to join the program and have had amazing opportunities watching it grow. CMDA is world class Data Science curriculum. CMDA provides an interdisciplanary education in Statistics, Computer Science, and Mathematics. I consider myself an applied mathematician by trade. I have experience in machine learning, optimization, regularization methods for ill-posed systems, applied statistics, and efficient computing for these methods. My interests lie in machine learning and predictive modeling. In particular as it relates to modeling human behavior using large datasets.
